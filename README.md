@@ -33,5 +33,5 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![My Dictionary - Google Chrome 6_3_2023 4_39_22 PM](https://github.com/samriddhipuranik/Dictonary/assets/69351209/3f64888b-fc70-4079-a5af-954464b64027)
 
