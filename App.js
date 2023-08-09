@@ -48,8 +48,6 @@ btn.addEventListener("click", (save) => {
         
 });
 
-
 function playSound() {
     sound.play();
 }
-
